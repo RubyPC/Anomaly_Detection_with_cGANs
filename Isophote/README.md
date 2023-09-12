@@ -1,1 +1,1 @@
-
+This folder contains a few examples on how to construct isophotes to measure photometry, helpful in measuring photometry for elliptical galaxies. Also included in the examples is sigma-clipping to smooth any background from stars.
