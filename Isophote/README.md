@@ -1,1 +1,0 @@
-## Isophote Photometry
