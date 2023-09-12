@@ -14,7 +14,7 @@ This is followed by matching the PSF of the images to that of the F444W filter b
 
 To prepare the data for the cGAN, source detection and extraction is used on the PSF-matched images. To do this, follow:
 
-> Source_Detection_Aperture_Photometry.ipynb
+> Source_Detection_Extraction.ipynb
 
 This will generate files for each waveband with a *'.fits'* extension containing individual galaxy images. The sources are extracted as 90x90 pixel cutouts ready to load into a Dataset folder for the cGAN.
 
