@@ -19,7 +19,7 @@ To prepare the data for the cGAN, source detection and extraction is used on the
 This will generate files for each waveband with a *'.fits'* extension containing individual galaxy images. The sources are extracted as 90x90 pixel cutouts ready to load into a Dataset folder for the cGAN.
 
 ## The Network
-<img width="565" alt="image" src="https://github.com/RubyPC/Anomaly_Detection_with_cGANs/assets/106536925/1e05edd5-b363-4071-bc1f-81823034ba63">
+<img width="560" alt="image" src="https://github.com/RubyPC/Anomaly_Detection_with_cGANs/assets/106536925/cf6becbd-7dd4-4ae7-87d6-39ab19fa8e7a">
 
 To use the cGAN, follow:
 
