@@ -29,6 +29,10 @@ The data fed to the cGAN is loaded from each individual waveband file. An exampl
 \
 <img width="472" alt="Dataset-layout" src="https://github.com/RubyPC/cGANs_in_astronomy/assets/106536925/99a173b6-2802-4867-bc4d-2755acb77dfb">
 
+## Results after Training
+The cGAN predicts the long wavelength channel of the objects such that we can extract photometry and reliably construct an SED. Below shows examples of results produced by the network, each with residual images showing the difference between the prediction of the cGAN and the ground truth.
+![Residual-Prediction](https://github.com/RubyPC/Anomaly_Detection_with_cGANs/assets/106536925/8a39dc67-a245-421b-beec-ad540a8e58ed)
+<img width="700" alt="Residual" src="https://github.com/RubyPC/Anomaly_Detection_with_cGANs/assets/106536925/37885644-f52d-442e-a392-83c27a1828d6">
 
 ## Some Useful Links
 * [JWST User Documentation](https://jwst-docs.stsci.edu/)
