@@ -1,4 +1,5 @@
 # Anomaly Detection with cGANs
+[![DOI](https://zenodo.org/badge/690453944.svg)](https://zenodo.org/badge/latestdoi/690453944)
 This repository contains notebooks for extracting sources from JWST NIRcam imaging data, performing aperture photometry and isophotal photometry and the source code for the cGAN. Each notebook gives a walk through and detailed explanation of how to use the code provided.
 \
 The data is public domain JWST data as part of the CEERS survey, the [Cosmic Evolution Early Release Survey (CEERS) data realease 0.5](https://ceers.github.io) can be found on the CEERS website [here](https://ceers.github.io/dr05.html). 
